@@ -12,8 +12,8 @@ paper名称是《MOWA: Multiple-in-One Image Warping Model》, ariv链接 https:
 可是以指向数组的指针形式访问和赋值，耗时只有0.003秒，相差了46666倍的速度。
 
 
-onnx文件在百度云盘，链接：https://pan.baidu.com/s/17b_kNE9azY3gE3gnqXTXLw 
-提取码：68i1
+onnx文件在百度云盘，链接：https://pan.baidu.com/s/1fLODbgP7oMeHUXuCR3U0xQ 
+提取码：auhs
 
 
 测试图片数量比较多，打包上传到百度云盘了，链接：https://pan.baidu.com/s/1Fq871r6TTsxcpqthgME9cg 
