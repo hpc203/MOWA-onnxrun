@@ -176,6 +176,9 @@ if __name__=='__main__':
     plt.axis('off')
     plt.title('flow', color='red')
 
+    fig=plt.gcf()
+    fig.set_facecolor('black')   ###黑色背景
+    
     plt.suptitle(f'{task_dict[task_id]}', fontsize=15, color='blue')
     # plt.show()
     plt.savefig(f'{task_dict[task_id]}.jpg', dpi=500, bbox_inches='tight') ###保存高清图
